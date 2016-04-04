@@ -1,3 +1,2 @@
 ## jenkins-ecs-test
 
-foo
